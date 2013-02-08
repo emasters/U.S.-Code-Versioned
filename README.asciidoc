@@ -2,7 +2,8 @@ Title 17 on github
 ===================
 
 Introduction
---------------
+------------
+
 So, occasionally I hear someone say "what the U.S. Code needs is
 versioning." and I wonder how that might work. So, I'm grabbing Title 17
 from FDSys dating back to 1994 and I'm going to version the HTML right here
